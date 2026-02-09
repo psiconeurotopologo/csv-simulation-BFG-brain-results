@@ -1,4 +1,6 @@
-SOVEREIGN BFG ENGINE: Full-Fusion Neurotopological Audit
+This repository contains raw output data for auditing purposes only. Access to the Sovereign Engine source code is restricted and requires a signed Non-Disclosure Agreement (NDA).
+
+SOVEREIGN PBND Lab/BFG ENGINE: Full-Fusion Neurotopological Audit
 Data Validation Repository for Macroscopic Quantum Dynamics
 
 Overview
