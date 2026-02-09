@@ -9,7 +9,7 @@ This repository hosts the forensic and computational evidence of the SCDS-Phoeni
 This is more than a codebase; it is a Reality Audit.
 
 Repository Contents
-1. Manifold Atlas and Risk Mapping (11 Diagnostic Visualizations)
+1. Manifold Atlas and Risk Mapping (10 Diagnostic Visualizations)
 Advanced processing of "Mental States" via the Sovereign Motor. These images document:
 
 Neural Risk Correlation Maps: Interdependency matrices between Network Fragmentation and Energy.
